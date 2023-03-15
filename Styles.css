@@ -205,7 +205,7 @@
 }
 
 .main__content h1 {
-  font-size: 4rem;
+  font-size: 1rem;
   background-color: #ff8177;
   background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
   background-size: 100%;
@@ -374,7 +374,7 @@
       rgba(0, 0, 0, 0) 0%,
       rgba(17, 17, 17, 0.6) 100%
     ),
-    url("/images/Pic2.jpg");
+    url("/images/LoL\ Rp\ cost.png");
   background-size: cover;
   position: relative;
   color: #fff;
@@ -408,7 +408,7 @@
   outline: none;
   background: #f77062;
   position: absolute;
-  top: 440px;
+  top: 240px;
   left: 30px;
   font-size: 1rem;
   border-radius: 4px;
@@ -562,3 +562,68 @@
     width: 100%;
   }
 }
+
+/* preLoader */
+/* #preLoader {
+  background: #131313;
+  background-size: 15%;
+  height: 100vh;
+  width: 100%;
+  position: fixed;
+  z-index: 10000000;
+}
+
+ul {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+ul li {
+  list-style: none;
+  color: #484848;
+  font-family: Arial;
+  font-size: 5em;
+  letter-spacing: 15;
+  animation: animate 3.4s linear infinite;
+}
+
+@keyframes animate {
+  0% {
+    color: #484848;
+    text-shadow: none;
+  }
+  90% {
+    color: #484848;
+    text-shadow: none;
+  }
+  100% {
+    color: #fff900;
+    text-shadow: 0 0 100px #fff900, 0 0 50px #ff6c00;
+  }
+}
+ul li:nth-child(1) {
+  animation-delay: 0.2s;
+}
+ul li:nth-child(2) {
+  animation-delay: 0.4s;
+}
+ul li:nth-child(3) {
+  animation-delay: 0.6s;
+}
+ul li:nth-child(4) {
+  animation-delay: 0.8s;
+}
+ul li:nth-child(5) {
+  animation-delay: 1s;
+}
+ul li:nth-child(6) {
+  animation-delay: 1.2s;
+}
+ul li:nth-child(7) {
+  animation-delay: 1.4s;
+} */
