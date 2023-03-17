@@ -123,6 +123,7 @@
     height: 50vh;
     z-index: -1;
     background: #131313;
+    pointer-events: none;
   }
   .navbar__menu.active {
     background: #131313;
@@ -132,6 +133,7 @@
     z-index: 99;
     height: 50vh;
     font-size: 1.6rem;
+    pointer-events: all;
   }
   #navbar__logo {
     padding-left: 25px;
