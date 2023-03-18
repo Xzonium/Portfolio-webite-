@@ -7,8 +7,12 @@ menu.addEventListener('click', function(){
 });
 
 //links for projects 
-function openIt () {
+function openPDF () {
     const url = 'https://lol-shop-g2g.netlify.app'
+    window.open (url);
+}
+function openRPS () {
+    const url = 'https://rock-paper-scissors-1921.netlify.app/'
     window.open (url);
 }
 

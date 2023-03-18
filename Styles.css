@@ -367,6 +367,7 @@
 }
 
 .services__card {
+  border: 3px solid #4837ff;
   margin: 1rem;
   height: 525px;
   width: 400px;
@@ -377,6 +378,7 @@
       rgba(17, 17, 17, 0.6) 100%
     ),
     url("/images/LoL\ Rp\ cost.png");
+
   background-size: cover;
   position: relative;
   color: #fff;
@@ -388,7 +390,7 @@
       rgba(0, 0, 0, 0) 0%,
       rgba(17, 17, 17, 0.6) 100%
     ),
-    url("/images/Pic3.jpg");
+    url("/images/RPS.png");
 }
 
 .services h2 {
