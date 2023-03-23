@@ -377,7 +377,8 @@
       rgba(0, 0, 0, 0) 0%,
       rgba(17, 17, 17, 0.6) 100%
     ),
-    url("/images/LoL\ Rp\ cost.png");
+    url("/images/RPS.png");
+  background-position: center;
 
   background-size: cover;
   position: relative;
@@ -390,7 +391,8 @@
       rgba(0, 0, 0, 0) 0%,
       rgba(17, 17, 17, 0.6) 100%
     ),
-    url("/images/RPS.png");
+    url("/images/Chess.png");
+  background-position: center;
 }
 
 .services h2 {
