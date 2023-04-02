@@ -15,6 +15,10 @@ function openChess () {
     const url = 'https://chess1997.netlify.app/'
     window.open (url);
 }
+function openNode () {
+    const url = 'https://the-ar-project.netlify.app/'
+    window.open (url);
+}
 
 // preloader
 // var loader =document.getElementById("preLoader");
