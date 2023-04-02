@@ -447,13 +447,54 @@ body {
       rgba(0, 0, 0, 0) 0%,
       rgba(17, 17, 17, 0.6) 100%
     ),
-    url("/images/Question\ mark.png");
+    url("/images/node\ img.png");
   background-position: center;
-  filter: invert(1);
 }
-#nodejs {
-  color: purple;
+#css0 {
+  color: rgb(232, 243, 245);
   font-size: 30px;
+  font-weight: bold;
+  padding: 10px;
+  backdrop-filter: blur(4px);
+}
+#css1 {
+  color: rgb(5, 214, 251);
+  font-size: 30px;
+  font-weight: bold;
+  padding: 10px;
+  backdrop-filter: blur(4px);
+  border: 2px solid rgb(5, 214, 251);
+}
+#JavaScript0 {
+  color: rgb(232, 243, 245);
+  font-size: 30px;
+  font-weight: bold;
+  padding: 10px;
+  backdrop-filter: blur(4px);
+}
+#JavaScript1 {
+  color: rgb(202, 251, 5);
+  font-size: 30px;
+  font-weight: bold;
+  padding: 10px;
+  backdrop-filter: blur(4px);
+  border: 2px solid rgb(202, 251, 5);
+}
+#nodejs0 {
+  color: rgb(232, 243, 245);
+  font-size: 30px;
+  font-weight: bold;
+  padding: 10px;
+  backdrop-filter: blur(4px);
+  font-style: italic;
+}
+#nodejs1 {
+  color: rgb(10, 241, 25);
+  font-size: 30px;
+  font-weight: bold;
+  padding: 10px;
+  backdrop-filter: blur(4px);
+  border: 2px solid rgb(10, 241, 25);
 }
 
 .services h2 {
