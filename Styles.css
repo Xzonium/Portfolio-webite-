@@ -536,6 +536,12 @@ body {
   }
 }
 
+/* Get in Contact section */
+
+#telephone__number {
+  color: white;
+}
+
 /* footer CSS */
 
 .footer__container {
